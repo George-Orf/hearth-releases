@@ -1,0 +1,97 @@
+HEARTH END-USER LICENCE AGREEMENT
+
+Copyright (c) 2026 George Orfanakis. All rights reserved.
+
+Please read this agreement before you install or use Hearth. By installing,
+copying or using Hearth you accept it. If you do not accept it, do not install
+or use Hearth.
+
+1. Who this agreement is between
+
+This agreement is between you and George Orfanakis ("the author"), who owns
+Hearth. "Hearth" means the Hearth application: its programs, files, artwork
+and documentation, and any updates of them the author gives you.
+
+2. Your licence
+
+The author grants you a personal, non-exclusive, non-transferable and
+revocable licence to install and use Hearth on computers that you own or
+control, for your own use. You may keep one backup copy of the installer.
+
+3. What you may not do
+
+Except as this agreement allows, or as applicable law permits in spite of this
+restriction, you may not:
+
+(a) copy, share, sell, rent, lend, sublicense or otherwise distribute Hearth
+or any part of it;
+
+(b) modify, adapt or translate Hearth, or create works based on it;
+
+(c) reverse engineer, decompile or disassemble Hearth, or otherwise try to
+recover its source code or how it works internally;
+
+(d) remove or change any copyright, trademark or licence notice in Hearth.
+
+4. Third-party components
+
+Hearth includes open-source components that are licensed to you under their
+own licences, not under this agreement. They are listed, with their licences,
+in THIRD-PARTY-NOTICES.txt in the Hearth folder, and nothing in this agreement
+limits the rights those licences give you. In particular, Hearth uses the
+pystray library (and, on Linux, the python-xlib library), which are licensed
+under the GNU Lesser General Public License. Hearth ships them as separate
+source files, in its "pystray" (and "Xlib") folder. You may modify or replace
+those files, and you may reverse engineer Hearth to the extent needed to debug
+such modifications.
+
+5. Your accounts and the services Hearth works with
+
+Hearth works with your own accounts at AI providers such as Anthropic
+(Claude), OpenAI (Codex), xAI (Grok), Moonshot AI (Kimi), Google (Antigravity)
+and OpenDesign. It uses the sign-ins those providers' own tools keep on your
+computer, it reads how much of your allowance is left, and, to keep session
+windows open and usage periods running, it can send short messages (such as
+"hi") from your accounts. Turning auto-rearm off stops these automatic
+messages.
+You are responsible for following those providers' terms. Hearth is not made,
+endorsed or supported by any of them. Their names and logos are their
+trademarks and are used only to identify their services.
+
+6. Privacy
+
+Hearth runs on your computer and sends nothing to the author. It connects only
+to the services of the providers your accounts belong to and, to check for and
+install updates of their command-line tools, to the places those tools are
+published. It keeps its settings and logs on your computer
+(%LOCALAPPDATA%\Hearth on Windows, ~/.config/hearth on Linux).
+
+7. No warranty
+
+Hearth is provided "as is", without warranty of any kind, express or implied,
+including any warranty of merchantability, fitness for a particular purpose or
+non-infringement. The author does not promise that Hearth is free of errors,
+that it will keep working with any provider, or that it will keep any session
+window open.
+
+8. Limitation of liability
+
+To the fullest extent the law allows, the author is not liable for any
+indirect, incidental, special or consequential damages, or for any loss of
+data, usage allowance, account access or profits, that arises from your use
+of Hearth or your inability to use it, even if the author was told it could
+happen. Nothing in this agreement excludes or limits any liability that the
+law does not allow to be excluded or limited.
+
+9. Termination
+
+This licence ends automatically if you break this agreement. When it ends you
+must stop using Hearth and delete every copy of it. Sections 3, 4, 7, 8 and 10
+continue to apply after it ends.
+
+10. General
+
+The author reserves every right not expressly granted to you in this
+agreement. If any part of this agreement cannot be enforced, the rest of it
+still applies. This is the whole agreement between you and the author about
+Hearth.
