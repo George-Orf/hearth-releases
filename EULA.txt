@@ -16,7 +16,15 @@ and documentation, and any updates of them the author gives you.
 
 The author grants you a personal, non-exclusive, non-transferable and
 revocable licence to install and use Hearth on computers that you own or
-control, for your own use. You may keep one backup copy of the installer.
+control, for your own personal use. You may keep one backup copy of the
+installer.
+
+Personal use means use by you as a private person, for example for your own
+projects, studies or hobbies. It does not include use by or for a company,
+organisation or public body, or use as part of work you are paid for. That
+use needs a separate written licence from the author. To ask for one, open an
+issue titled "Business licence" at
+https://github.com/George-Orf/hearth-releases/issues.
 
 3. What you may not do
 
